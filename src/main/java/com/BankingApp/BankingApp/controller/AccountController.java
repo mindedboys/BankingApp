@@ -1,6 +1,5 @@
 package com.BankingApp.BankingApp.controller;
 
-import ch.qos.logback.core.net.SyslogOutputStream;
 import com.BankingApp.BankingApp.dto.AccountDto;
 import com.BankingApp.BankingApp.service.AccountService;
 import org.springframework.beans.factory.annotation.Autowired;
